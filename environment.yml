@@ -10,4 +10,5 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - polars    
+    - polars
+    - nbclassic
